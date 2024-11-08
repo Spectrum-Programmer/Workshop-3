@@ -1,0 +1,950 @@
+fileFormatVersion: 2
+guid: ba78616ac346e4183867abcc7691e8cd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_0
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 385
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a7563b45b5b4ff3bb3f28b7a317a2a
+      internalID: 1744664360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 383
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b65b868c148c4c809af44f35a023860
+      internalID: -1623173100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 381
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc24448f01c264e19a695d1b8d487485
+      internalID: -322144599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 381
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2379040e88fe44329976799591c8e998
+      internalID: -561804226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_4
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 385
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855c0db39b13a49c0b297f66ef872a6d
+      internalID: 101653927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_5
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 385
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435a3c61a384946b9ae90968bc7434eb
+      internalID: -387840856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 317
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f61c4a01bf14a34a17bf4c6f7c9e10
+      internalID: -537175467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 316
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846bdd30d9de14dde9e1c3faaab3701b
+      internalID: -175107895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 315
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e572c5ca10944919350a0fb4880591
+      internalID: -685623472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 316
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c3bf6e81e344ffc981e515abbe07bc
+      internalID: 2048082286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 313
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cb4e8800a7448049bea8bc3046425d
+      internalID: -2081541449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_11
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 316
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27903d263ff6e45f88db04bf08b1aec1
+      internalID: -380636919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 246
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f116f3cc7e8c44108f247ff62835a65
+      internalID: 1997795722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_13
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 247
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958d743819e574070b2368586cc2130e
+      internalID: 2102049634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 246
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f33b7656ea194fd8baa070af9ad6902
+      internalID: 1159746975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_15
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 245
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7dd095f7d954f1da2e3f879f34fdde
+      internalID: 1243034675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 245
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000e3d881675a4608b41bac008a8e701
+      internalID: -480923183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_17
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 244
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7292174e45e4607aba35a5efc8d479
+      internalID: 1125238101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 174
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e4d457d65844ae297e262f3ee9578f
+      internalID: -1460778386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_19
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 175
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c9d1a3409b54ac3bdd6016180e6410
+      internalID: 1019304372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_20
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 175
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1d00ae647d64a9489bca52a219af55
+      internalID: 1873512559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_21
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 171
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a90f22e42a6437090a2a5f72b3d22f
+      internalID: -498569413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_22
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 172
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2fcf934ae3341d28014868f3c19d0c
+      internalID: 807904921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_23
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 174
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28070e4ad116d498fac223e0c80f16e5
+      internalID: -1769198616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 102
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca14ecb65fb04e6a84ad29cd0a810dc
+      internalID: -379701433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_25
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 103
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782b4904eed2a48dfb213c1889d45663
+      internalID: 526287918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_26
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 103
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76774ec9106074741afc9b570e4209f4
+      internalID: 1322982103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 101
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bde461cc98b441889f5512a98924a0f
+      internalID: 1814223133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 99
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a08a7bf91534ba5959dd9fa749de34
+      internalID: 1925147400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_29
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 100
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fb2dec2aa72475eb97400da158bfbc
+      internalID: 146556206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_30
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 35
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c648bfb0732c2434d97b221121cb7f7c
+      internalID: 2123646904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_31
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 33
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02beb4a7dfc9147d6a096ae2d3388de0
+      internalID: 1458573742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_32
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 33
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdedeb7a04d4b4bbfbb692116289989c
+      internalID: -1933212274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_33
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 32
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af0fc26f9c67413288b016cd09067ca
+      internalID: -265650035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_34
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 32
+        width: 60
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285cfb1f636884f22b59aa482979bff5
+      internalID: 2077195044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_35
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 35
+        width: 60
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5d0deee62444de7a57a889514819bf
+      internalID: 1635142244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 457
+        width: 170
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a68000f52494c148f8492010b29cc9
+      internalID: 483847046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-3-Character-Sprite-Sheets-Pixel-Art7_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 140
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41c1f2f9d996412a89fe9f8e1d7306a
+      internalID: -1237772006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 42c544a57ca4041148adf8077a6819be
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_0: 1744664360
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_1: -1623173100
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_10: -2081541449
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_11: -380636919
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_12: 1997795722
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_13: 2102049634
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_14: 1159746975
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_15: 1243034675
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_16: -480923183
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_17: 1125238101
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_18: -1460778386
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_19: 1019304372
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_2: -322144599
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_20: 1873512559
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_21: -498569413
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_22: 807904921
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_23: -1769198616
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_24: -379701433
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_25: 526287918
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_26: 1322982103
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_27: 1814223133
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_28: 1925147400
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_29: 146556206
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_3: -561804226
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_30: 2123646904
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_31: 1458573742
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_32: -1933212274
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_33: -265650035
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_34: 2077195044
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_35: 1635142244
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_36: 483847046
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_37: -1237772006
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_4: 101653927
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_5: -387840856
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_6: -537175467
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_7: -175107895
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_8: -685623472
+      Free-3-Character-Sprite-Sheets-Pixel-Art7_9: 2048082286
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,678 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8642036131313761921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: FMOD Studio Project/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638664402192703157
+  FileSizes:
+  - Name: Desktop
+    Value: 1036
+  Exists: 1
+--- !u!114 &-8288952168565691856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Moving (Continuous)/Speed
+  m_EditorClassIdentifier: 
+  Name: Speed
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 947379319
+    data2: 1507551879
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-7797460440827405667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Round Start (Discrete)/Parameter 1
+  m_EditorClassIdentifier: 
+  Name: Parameter 1
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3394154948
+    data2: 2777512275
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-5403877036383286540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Provided Events [LH]/Player States/Death (One-Two)
+  m_EditorClassIdentifier: 
+  Path: event:/Provided Events [LH]/Player States/Death (One-Two)
+  Guid:
+    Data1: 1848333047
+    Data2: 1225928630
+    Data3: -957393777
+    Data4: 819717885
+  Banks:
+  - {fileID: -498499271604345217}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3729
+--- !u!114 &-4738979443325083031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Provided Events [LH]/Attacks/Skid (One-Shot)
+  m_EditorClassIdentifier: 
+  Path: event:/Provided Events [LH]/Attacks/Skid (One-Shot)
+  Guid:
+    Data1: 527878646
+    Data2: 1108296603
+    Data3: -992802674
+    Data4: 866496023
+  Banks:
+  - {fileID: -498499271604345217}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 957
+--- !u!114 &-3949276305759746179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Projectile (Discrete)/Projectile Hit
+  m_EditorClassIdentifier: 
+  Name: Projectile Hit
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 4167869638
+    data2: 3875722215
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-2589885671440971281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Discrete Parameter UI (Discrete)/Menu Option
+  m_EditorClassIdentifier: 
+  Name: Menu Option
+  StudioPath: 
+  Min: 0
+  Max: 2
+  Default: 1
+  ID:
+    data1: 1511156393
+    data2: 2830501722
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-2450382730014532746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Provided Events [LH]/Player States/Stun (One-Shot Loop)
+  m_EditorClassIdentifier: 
+  Path: event:/Provided Events [LH]/Player States/Stun (One-Shot Loop)
+  Guid:
+    Data1: 1045735946
+    Data2: 1288552503
+    Data3: 97586347
+    Data4: -2142072012
+  Banks:
+  - {fileID: -498499271604345217}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5400
+--- !u!114 &-2091946978920399137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Variation Loop/Race To The Finish!
+  m_EditorClassIdentifier: 
+  Name: Race To The Finish!
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1556101967
+    data2: 2964319836
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-1293996549318189917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Provided Events [LH]/Attacks/Projectile (Discrete)
+  m_EditorClassIdentifier: 
+  Path: event:/Provided Events [LH]/Attacks/Projectile (Discrete)
+  Guid:
+    Data1: 736210990
+    Data2: 1180511054
+    Data3: 1790872495
+    Data4: 1595443159
+  Banks:
+  - {fileID: -498499271604345217}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -3949276305759746179}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-946488672412231406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Provided Events [LH]/Beetle Movement/Strafe (One-Shot)
+  m_EditorClassIdentifier: 
+  Path: event:/Provided Events [LH]/Beetle Movement/Strafe (One-Shot)
+  Guid:
+    Data1: -1336591399
+    Data2: 1123396262
+    Data3: 1518631083
+    Data4: -778853074
+  Banks:
+  - {fileID: -498499271604345217}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1236
+--- !u!114 &-809316656269059718
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Provided Events [LH]/Attacks/Aim (One-Shot)
+  m_EditorClassIdentifier: 
+  Path: event:/Provided Events [LH]/Attacks/Aim (One-Shot)
+  Guid:
+    Data1: 2054250679
+    Data2: 1094961749
+    Data3: 397886375
+    Data4: -1795890110
+  Banks:
+  - {fileID: -498499271604345217}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 6468
+--- !u!114 &-759040405805304482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: FMOD Studio Project/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638664402192704166
+  FileSizes:
+  - Name: Desktop
+    Value: 2126
+  Exists: 1
+--- !u!114 &-681756943594937841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Provided Events [LH]/Game Progress/Round Start (Discrete)
+  m_EditorClassIdentifier: 
+  Path: event:/Provided Events [LH]/Game Progress/Round Start (Discrete)
+  Guid:
+    Data1: 1421017593
+    Data2: 1099125937
+    Data3: 1729636497
+    Data4: 2061729707
+  Banks:
+  - {fileID: -498499271604345217}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -7797460440827405667}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-498499271604345217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Provided Events Bank.bank
+  m_EditorClassIdentifier: 
+  Path: FMOD Studio Project/Build/Desktop/Provided Events Bank.bank
+  Name: Provided Events Bank
+  StudioPath: bank:/Provided Events Bank
+  lastModified: 638664402192738780
+  FileSizes:
+  - Name: Desktop
+    Value: 4785536
+  Exists: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -759040405805304482}
+  - {fileID: -8642036131313761921}
+  - {fileID: -498499271604345217}
+  - {fileID: 8718514033002162209}
+  EditorEvents:
+  - {fileID: -2450382730014532746}
+  - {fileID: -1293996549318189917}
+  - {fileID: 3547057939053576189}
+  - {fileID: 4463959991448565903}
+  - {fileID: 1665413823733506034}
+  - {fileID: -809316656269059718}
+  - {fileID: 5095387546744502098}
+  - {fileID: 5079755547620474134}
+  - {fileID: -946488672412231406}
+  - {fileID: 1103397672298610842}
+  - {fileID: 1705426075677368168}
+  - {fileID: -4738979443325083031}
+  - {fileID: -5403877036383286540}
+  - {fileID: -681756943594937841}
+  - {fileID: 2578063708658638134}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -8642036131313761921}
+  StringsBanks:
+  - {fileID: -759040405805304482}
+  cacheTime: 638664402192747677
+  cacheVersion: 131620
+--- !u!114 &356251113673037069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Shooting a Dragon in the ass who has a tuba in her mouth/Parameter
+    4
+  m_EditorClassIdentifier: 
+  Name: Parameter 4
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2895175417
+    data2: 2705812188
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &1103397672298610842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Provided Events [LH]/Beetle Movement/Footsteps (Multi Instrument)
+  m_EditorClassIdentifier: 
+  Path: event:/Provided Events [LH]/Beetle Movement/Footsteps (Multi Instrument)
+  Guid:
+    Data1: -597780257
+    Data2: 1293368617
+    Data3: 1442666897
+    Data4: 2040350150
+  Banks:
+  - {fileID: -498499271604345217}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 530
+--- !u!114 &1665413823733506034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Provided Events [LH]/Music/Basic Loop
+  m_EditorClassIdentifier: 
+  Path: event:/Provided Events [LH]/Music/Basic Loop
+  Guid:
+    Data1: 416392111
+    Data2: 1107009110
+    Data3: -425757551
+    Data4: -902764916
+  Banks:
+  - {fileID: -498499271604345217}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 58644
+--- !u!114 &1705426075677368168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Provided Events [LH]/Ambient Noise (One-Shot Loop)
+  m_EditorClassIdentifier: 
+  Path: event:/Provided Events [LH]/Ambient Noise (One-Shot Loop)
+  Guid:
+    Data1: 541785588
+    Data2: 1155776334
+    Data3: -2067877971
+    Data4: -1678620583
+  Banks:
+  - {fileID: -498499271604345217}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 18372
+--- !u!114 &2578063708658638134
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Shooting a Dragon in the ass who has a tuba in her mouth
+  m_EditorClassIdentifier: 
+  Path: event:/Shooting a Dragon in the ass who has a tuba in her mouth
+  Guid:
+    Data1: -123969402
+    Data2: 1268481449
+    Data3: 1253156784
+    Data4: -1080010457
+  Banks:
+  - {fileID: 8718514033002162209}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 356251113673037069}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 14500
+--- !u!114 &3547057939053576189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Provided Events [LH]/Beetle Movement/Moving (Continuous)
+  m_EditorClassIdentifier: 
+  Path: event:/Provided Events [LH]/Beetle Movement/Moving (Continuous)
+  Guid:
+    Data1: 1006795093
+    Data2: 1271668589
+    Data3: 996772757
+    Data4: -18632635
+  Banks:
+  - {fileID: -498499271604345217}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -8288952168565691856}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 6909
+--- !u!114 &4463959991448565903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Provided Events [LH]/Attacks/Fire (One-Two)
+  m_EditorClassIdentifier: 
+  Path: event:/Provided Events [LH]/Attacks/Fire (One-Two)
+  Guid:
+    Data1: 1438755463
+    Data2: 1273770955
+    Data3: 1082278031
+    Data4: -2115004065
+  Banks:
+  - {fileID: -498499271604345217}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3276
+--- !u!114 &5079755547620474134
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Provided Events [LH]/Music/Variation Loop
+  m_EditorClassIdentifier: 
+  Path: event:/Provided Events [LH]/Music/Variation Loop
+  Guid:
+    Data1: 246407891
+    Data2: 1144099364
+    Data3: -967586411
+    Data4: 1735293548
+  Banks:
+  - {fileID: -498499271604345217}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -2091946978920399137}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 168000
+--- !u!114 &5095387546744502098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Provided Events [LH]/UI/Discrete Parameter UI (Discrete)
+  m_EditorClassIdentifier: 
+  Path: event:/Provided Events [LH]/UI/Discrete Parameter UI (Discrete)
+  Guid:
+    Data1: 366904505
+    Data2: 1212814766
+    Data3: -937337960
+    Data4: -272330792
+  Banks:
+  - {fileID: -498499271604345217}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -2589885671440971281}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &8718514033002162209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Workshop Events Bank.bank
+  m_EditorClassIdentifier: 
+  Path: FMOD Studio Project/Build/Desktop/Workshop Events Bank.bank
+  Name: Workshop Events Bank
+  StudioPath: bank:/Workshop Events Bank
+  lastModified: 638664402192747677
+  FileSizes:
+  - Name: Desktop
+    Value: 151392
+  Exists: 1
