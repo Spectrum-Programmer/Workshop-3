@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{23df3089-ef48-48d8-9acd-686f71b17d5f}">
+		<property name="name">
+			<value>Pew</value>
+		</property>
+		<relationship name="folder">
+			<destination>{9797e544-67b9-42f1-88e5-154f959ab097}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{bc594b65-cbb9-4bd9-9f6a-aafd6eb4a3ee}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{bc594b65-cbb9-4bd9-9f6a-aafd6eb4a3ee}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>11</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

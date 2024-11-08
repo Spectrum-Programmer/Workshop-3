@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fe3ed362-fe2a-4f35-ba3a-2448f7be2acf}">
+		<property name="assetPath">
+			<value>Provided Assets [LH]/Attack/Fire3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.2765986394557822</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{42cba907-803a-4325-9dc1-71b9a5046086}</destination>
+		</relationship>
+	</object>
+</objects>
